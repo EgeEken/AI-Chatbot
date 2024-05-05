@@ -11,7 +11,7 @@ I followed and built over [Andrej Karpathy's lecture](https://www.youtube.com/wa
 
 ## The chatbot
 
-To generate text using any of the models i put here or any of the models you trained with, use the file "Chatbot.py".
+To generate text using any of the models i put here or any of the models you trained with, use the file `Chatbot.py`.
 You will be prompted to input the model filename that you want to use, along with the hyperparameters.
 
 Afterwards you can input your questions, and the chatbot will respond!
@@ -19,7 +19,7 @@ Afterwards you can input your questions, and the chatbot will respond!
 
 ## The trainer
 
-To train a chatbot using your own data, use the file "Trainer.py". You will be prompted to input the text filename, the desired output model filename, as well as the necessary hyperparameters. 
+To train a chatbot using your own data, use the file `Trainer.py`. You will be prompted to input the text filename, the desired output model filename, as well as the necessary hyperparameters. 
 
 The program will then start training and give you an estimate of how long it will take to finish training given your hyperparameters and GPU, it is a very accurate estimate so if it seems too long for you, it probably is, try lowering the layer or iteration counts.
 
@@ -28,6 +28,8 @@ The program will then start training and give you an estimate of how long it wil
 
 I generated a dataset of questions and answers using locally run Llama 3-8B, prompting it to generate 5 q/a exchanges relating to a given word, i ran this over every word in the "common english words" list i found online from Paris Diderot University, [link](https://python.sdv.univ-paris-diderot.fr/data-files/english-common-words.txt).
 
-If you want to generate your own dataset using the same method, use the file "Data_generator.py", you can set the model path if you have another model installed that you would like to use instead of Llama, and the words file if you want it to generate exchanges based on different words.
+The dataset is in the file `data.txt`.
+
+If you want to generate your own dataset using the same method, use the file `Data_generator.py`, you can set the model path if you have another model installed that you would like to use instead of Llama, and the words file if you want it to generate exchanges based on different words.
 
 
