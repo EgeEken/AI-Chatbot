@@ -6,7 +6,8 @@ I followed and built over [Andrej Karpathy's lecture](https://www.youtube.com/wa
 
 ## Results
 
-(to be added)
+![image](https://github.com/EgeEken/AI-Chatbot/assets/96302110/4f6a94ba-661b-4fba-9594-0d0947127fce)
+![image](https://github.com/EgeEken/EgeEken/assets/96302110/51d382e2-4f24-4c51-8d94-508cf3f81aee)
 ![image](https://github.com/EgeEken/AI-Chatbot/assets/96302110/512f7cb1-dd17-4daf-a476-353b716a6b43)
 
 ## The chatbot
