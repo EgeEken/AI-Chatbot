@@ -1,7 +1,9 @@
 # AI Chatbot
 ### An AI Chatbot LLM model with architecture based on the original GPT2 (124M), built and trained entirely locally from scratch.
 
-All of the code and processing of this project was done entirely on my laptop, no cloud computing was used to train or run the models. 
+https://github.com/user-attachments/assets/12ab0360-4303-4ca5-9d22-0438fb3f6298
+
+All of the code and processing of this project was done entirely on my laptop, no server hosts or cloud computing were used to train or run the models. 
 
 Repository includes the code, a dataset generated using locally run Llama 3-8B for training, and the necessary programs to create said data using a local model, as well as train and run your own models.
 
