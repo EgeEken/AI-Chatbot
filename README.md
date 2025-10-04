@@ -19,9 +19,8 @@ Model that reads and responds to your questions. V1 is the model trained from sc
 ![image](https://github.com/EgeEken/AI-Chatbot/assets/96302110/512f7cb1-dd17-4daf-a476-353b716a6b43)
 
 ### V2 Finetuned Model (Displayed on Gradio Interface)
-<img width="1090" height="180" alt="image" src="https://github.com/user-attachments/assets/82dcd01c-973d-4bf6-987e-38ea63198f7c" />
-
 <img width="1025" height="596" alt="image" src="https://github.com/user-attachments/assets/816aa571-fdf4-4bd9-a74c-1b9d9d5aa5bf" />
+<img width="1090" height="180" alt="image" src="https://github.com/user-attachments/assets/82dcd01c-973d-4bf6-987e-38ea63198f7c" />
 
 
 ## AI that speaks like you
