@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/12ab0360-4303-4ca5-9d22-0438fb3f6298
 
 All of the code and processing of this project was done entirely on my laptop, no server hosts or cloud computing were used to train or run the models. 
 
-Repository includes the code, a dataset generated using locally run Llama 3-8B for training, and the necessary programs to create said data using a local model, as well as train and run your own models.
+Repository includes the code, a link to the dataset generated using locally run Llama 3-8B for training (Link: [Hugging Face Dataset](https://huggingface.co/datasets/EgeEken/llama3-8b-io-chatbot-dataset)), and the necessary programs to create said data using a local model, as well as train and run your own models.
 
 I followed and built over Andrej Karpathy's lectures for this project, specifically these two respectively for [V1](https://www.youtube.com/watch?v=kCc8FmEb1nY) and [V2](https://www.youtube.com/watch?v=l8pRSuU81PU)
 
